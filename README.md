@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anupam Tiwari but you can me AP 
-- 👀 I’m interested in solving problem and designing systems
+- 👋 Hi, I’m Anupam Tiwari but you can call me AP 
+- 👀 I’m interested in solving problems and designing systems
 - 🌱 I’m currently a CS Grad student at NYU 
 - 💞️ I’m looking to collaborate on any interesting projects, ideas etc
 - 📫 How to reach me email: appleanupam@gmail.com nyu: ast9885@nyu.edu linkedIn: https://www.linkedin.com/in/anupam-tiwari/
