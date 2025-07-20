@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anupam 
-- 👀 love building!
+- 👀 working on coconnect 
 - 💁 Working at BlackRock 
 - 🌱 did my undergrad from SRM, UC Berkeley and my grad from NYU
-- 💞️ 
 - 📫 How to reach me personal: appleanupam@gmail.com business: pizzihutanupam@gmail.com linkedIn: https://www.linkedin.com/in/anupam-tiwari/
 
 <!---
